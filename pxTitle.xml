@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<system><title>GENERAL</title>
+   <part><title>APPEARANCE</title>
+      <choice default="yes">NL</choice>
+      <choice>Cachectic</choice>
+      <choice>Deformities</choice>
+   </part>
+</system>
+
+<system><title>SKIN</title>
+      <choice default="yes">NL</choice>
+      <choice>Jaundice</choice>
+      <choice>Pale</choice>
+      <choice>Cyanoisis</choice>
+      <choice>Lesions</choice>
+      <choice>Rash</choice>
+      <choice>Other</choice>      
+</system>
